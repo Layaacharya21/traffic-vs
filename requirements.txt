@@ -1,0 +1,7 @@
+flask==2.3.3
+opencv-python==4.10.0.84
+ultralytics==8.0.196
+mysql-connector-python==8.1.0
+gunicorn==21.2.0
+numpy
+requests==2.32.3
